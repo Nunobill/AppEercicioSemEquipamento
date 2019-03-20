@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AppEercicioSemEquipamento</string>
+    <string name="title_activity_main">Exercícios sem Equipamentos</string>
 </resources>
